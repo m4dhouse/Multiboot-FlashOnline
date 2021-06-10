@@ -97,26 +97,11 @@ msgstr "Seleziona lo slot dove installare l'image"
 msgid "Number of image installed: %s"
 msgstr "Image installate: %s"
 
-msgid "Do you want to install OpenMultiBoot?"
-msgstr "Vuoi installare OpenMultiboot?"
-
-msgid "Install OpenMultiboot"
-msgstr "Installo OpenMultiboot"
-
-msgid "{} installed successfully on OMB"
-msgstr "{} installata con successo in OMB"
-
 msgid "STB temporarily unsupported"
 msgstr "Decoder momentaneamente non supportato"
 
-msgid "{} installed successfully on OMB\n\nDo you want to install\nMultiboot FlashOnline\non the newly installed image?"
-msgstr "{} installata con successo in OMB\n\nVuoi installare\nMultiboot FlashOnline\nsull'image appena installata?"
-
 msgid "Multiboot FlashOnline successfully installed on {}"
 msgstr "Multiboot installato con successo su {}"
-
-msgid "In order to use Multiboot FlashOnline the OpenMultiboot plugin is required"
-msgstr "Per poter utilizzare Multiboot FlashOnline è richiesto il plugin OpenMultiboot"
 
 msgid "\nVersion %s"
 msgstr "\nVersione %s"
