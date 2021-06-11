@@ -29,19 +29,19 @@ msgid "6 Partitions (requires 12Gb of dedicated free space)"
 msgstr "6 Partitionen (erfordert 12Gb dedizierten freien Speicherplatz)"
 
 msgid "8 Partitions (requires 16Gb of dedicated free space)"
-msgstr "8 Partitionen (erfordert 16 GB dedizierten freien Speicherplatz)"
+msgstr "8 Partitionen (erfordert 16Gb dedizierten freien Speicherplatz)"
 
 msgid "10 Partitions (requires 20Gb of dedicated free space)"
-msgstr "10 Partitionen (erfordert 20 GB dedizierten freien Speicherplatz)"
+msgstr "10 Partitionen (erfordert 20Gb dedizierten freien Speicherplatz)"
 
 msgid "12 Partitions (requires 24Gb of dedicated free space)"
-msgstr "12 Partitionen (erfordert 24 GB dedizierten freien Speicherplatz)"
+msgstr "12 Partitionen (erfordert 24Gb dedizierten freien Speicherplatz)"
 
 msgid "14 Partitions (requires 28Gb of dedicated free space)"
-msgstr "14 Partitionen (erfordert 28 GB dedizierten freien Speicherplatz)"
+msgstr "14 Partitionen (erfordert 28Gb dedizierten freien Speicherplatz)"
 
 msgid "16 Partitions (requires 32Gb of dedicated free space)"
-msgstr "16 Partitionen (erfordert 32 GB dedizierten freien Speicherplatz)"
+msgstr "16 Partitionen (erfordert 32Gb dedizierten freien Speicherplatz)"
 
 msgid "Number of existing partitions: %s"
 msgstr "Anzahl vorhandener Partitionen: %s"
@@ -117,9 +117,6 @@ msgstr "Installiere Update..."
 
 msgid "File download error!"
 msgstr "Fehler beim Herunterladen der Datei!"
-
-msgid "Do you want to install\n\nthe {} image from OMB?"
-msgstr "Wollen Sie installieren\n\nimage {} im OMB?"
 
 msgid "Do you want to restart enigma2?\n\nRemember that after reboot you need to run the OpenMultiboot plugin\nand install it on /media/hdd"
 msgstr "Willst du neu starten enigma2?\n\nDenken Sie daran, dass Sie nach dem Neustart das OpenMultiboot-Plugin ausführen müssen OpenMultiboot\nInstallation bootmenu in /media/hdd"
