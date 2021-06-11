@@ -14,121 +14,128 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Exit"
-msgstr "Esci"
+msgstr "Ende"
 
 msgid "%s installed"
-msgstr "%s installata"
+msgstr "%s Eingerichtet"
 
 msgid "Select"
-msgstr "Seleziona"
+msgstr "wählen"
 
 msgid "Partition drive (experimental)"
-msgstr "Partition drive (sperimentale)"
+msgstr "Laufwerk partitionieren (Experimental-)"
 
 msgid "6 Partitions (requires 12Gb of dedicated free space)"
-msgstr "6 partizioni (richiede 12Gb di spazio libero dedicati)"
+msgstr "6 Partitionen (erfordert 12Gb dedizierten freien Speicherplatz)"
 
 msgid "8 Partitions (requires 16Gb of dedicated free space)"
-msgstr "8 partizioni (richiede 16Gb di spazio libero dedicati)"
+msgstr "8 Partitionen (erfordert 16 GB dedizierten freien Speicherplatz)"
 
 msgid "10 Partitions (requires 20Gb of dedicated free space)"
-msgstr "10 partizioni (richiede 20Gb di spazio libero dedicati)"
+msgstr "10 Partitionen (erfordert 20 GB dedizierten freien Speicherplatz)"
 
 msgid "12 Partitions (requires 24Gb of dedicated free space)"
-msgstr "12 partizioni (richiede 24Gb di spazio libero dedicati)"
+msgstr "12 Partitionen (erfordert 24 GB dedizierten freien Speicherplatz)"
 
 msgid "14 Partitions (requires 28Gb of dedicated free space)"
-msgstr "14 partizioni (richiede 28Gb di spazio libero dedicati)"
+msgstr "14 Partitionen (erfordert 28 GB dedizierten freien Speicherplatz)"
 
 msgid "16 Partitions (requires 32Gb of dedicated free space)"
-msgstr "16 partizioni (richiede 32Gb di spazio libero dedicati)"
+msgstr "16 Partitionen (erfordert 32 GB dedizierten freien Speicherplatz)"
 
 msgid "Number of existing partitions: %s"
-msgstr "Numero di partizioni esistenti: %s"
+msgstr "Anzahl vorhandener Partitionen: %s"
 
 msgid "Model Stb: %s"
-msgstr "Modello Stb: %s"
+msgstr "Modell Stb: %s"
 
 msgid "STB unsupported!"
-msgstr "Decoder non supportato!"
+msgstr "STB nicht unterstützt!"
 
 msgid "Image running: %s"
-msgstr "Image in esecuzione: %s"
+msgstr "Bild läuft: %s"
 
 msgid "You are going to create 6 partitions on the external drive,\nbefore proceeding,\nmake sure the drive is formatted is unmounted.\n\nIf it is successful, you will receive a message on the screen"
-msgstr "Stai per creare 6 partizioni sull'unità esterna,\nprima di procedere,\nassicurati che l'unità sia formattata e smontata.\n\nSe il processo è andato a buon fine, riceverai un messaggio sullo schermo"
+msgstr "Sie werden 6 Partitionen auf dem externen Laufwerk erstellen,\nbevor Sie fortfahren,\nStellen Sie sicher, dass das Laufwerk formatiert und nicht gemountet ist.\n\nWenn der Vorgang erfolgreich war, Sie erhalten eine Nachricht auf dem Bildschirm"
 
 msgid "Before proceeding,\nmake sure the drive is formatted is unmounted.\n\nIf it is successful, you will receive a message on the screen"
-msgstr "Prima di procedere,\nassicurati che l'unità sia formattata e smontata.\n\nSe il processo è andato a buon fine, riceverai un messaggio sullo schermo"
+msgstr "Bevor Sie fortfahren,\nStellen Sie sicher, dass das Laufwerk formatiert und nicht gemountet ist.\n\nWenn der Vorgang erfolgreich war, Sie erhalten eine Nachricht auf dem Bildschirm"
 
 msgid "Do you want to download\n\nthe {} image?"
-msgstr "Vuoi scaricare\n\nl'immagine {}?"
+msgstr "Möchten Sie herunterladen\n\ndas Bild {}?"
 
 msgid "1) Check the LAN cable behind the stb\n\n2) Check your internet connection\n\n3) Reopen Multiboot FlashOnLine"
-msgstr "1) Controlla il cavo LAN dietro al decoder\n\n2) Controlla la tua connessione Internet\n\n3) Riapri Multiboot FlashOnLine"
+msgstr "1) Überprüfen Sie das LAN-Kabel hinter dem Decoder\n\n2) Prüfe deine Internetverbindung\n\n3) öffnen Multiboot FlashOnLine"
 
 msgid "Please wait for the process to finish..."
-msgstr "Attendi il completamento del processo..."
+msgstr "Bitte warten Sie, bis der Vorgang abgeschlossen ist..."
 
 msgid "Confirmation"
-msgstr "Conferma"
+msgstr "Bestätigung"
 
 msgid "Download Failed!"
-msgstr "Download fallito!"
+msgstr "Herunterladen fehlgeschlagen!"
 
 msgid "Select the slot"
-msgstr "Seleziona lo slot"
+msgstr "Wählen Sie den Steckplatz"
 
 msgid "Server temporarily unavailable"
-msgstr "Server momentaneamente non disponibile"
+msgstr "Server vorübergehend nicht verfügbar"
 
 msgid "Please be patient!\n\nFlash in progress..."
-msgstr "Flash in corso\npazientare..."
+msgstr "Bitte haben Sie Geduld\nSei geduldig..."
 
-msgid "{} successfully flashed on\n\npartition {}"
-msgstr "{} installata correttamente nella\n\npartizione {}"
+msgid "{} successfully flashed to\n\npartition {}"
+msgstr "{} erfolgreich geflasht auf\n\npartition {}"
 
 msgid "Flash your favorite image by Madhouse"
-msgstr "Installa la tua immagine preferita by Madhouse"
+msgstr "Installieren Sie Ihr Lieblingsbild by Madhouse"
 
 msgid "Select the slot where to install the image"
-msgstr "Seleziona lo slot dove installare l'image"
+msgstr "Wählen Sie den Steckplatz aus, in dem das Image installiert werden soll"
 
 msgid "Number of image installed: %s"
-msgstr "Image installate: %s"
+msgstr "Anzahl der installierten Bilder: %s"
 
 msgid "STB temporarily unsupported"
-msgstr "Decoder momentaneamente non supportato"
+msgstr "STB vorübergehend nicht unterstützt"
 
 msgid "Multiboot FlashOnline successfully installed on {}"
-msgstr "Multiboot installato con successo su {}"
+msgstr "Multiboot FlashOnline erfolgreich installiert auf {}"
 
 msgid "\nVersion %s"
-msgstr "\nVersione %s"
+msgstr "\nAusführung %s"
 
 msgid "\nBeta version!"
-msgstr "\nVersione Beta!"
+msgstr "\nAusführung Beta!"
 
 msgid "\nPress MENU to update"
-msgstr "\nPremi MENU per aggiornare"
+msgstr "\nDrücken Sie zum Aktualisieren auf MENÜ"
 
 msgid "Install update..."
-msgstr "Installo l'aggiornamento..."
+msgstr "Installiere Update..."
 
 msgid "File download error!"
-msgstr "Errore nel download del file!"
+msgstr "Fehler beim Herunterladen der Datei!"
+
+msgid "Do you want to install\n\nthe {} image from OMB?"
+msgstr "Wollen Sie installieren\n\nimage {} im OMB?"
+
+msgid "Do you want to restart enigma2?\n\nRemember that after reboot you need to run the OpenMultiboot plugin\nand install it on /media/hdd"
+msgstr "Willst du neu starten enigma2?\n\nDenken Sie daran, dass Sie nach dem Neustart das OpenMultiboot-Plugin ausführen müssen OpenMultiboot\nInstallation bootmenu in /media/hdd"
 
 msgid "Restart enigma2 to be able to use Multiboot FlashOnline"
-msgstr "Riavvia enigma2 per poter utilizzare Multiboot FlashOnline"
+msgstr "Starten Sie enigma2 neu, um Multiboot verwenden zu können FlashOnline"
 
 msgid "Select how many partitions you want to create"
-msgstr "Seleziona quante partizioni vuoi creare"
+msgstr "Wählen Sie aus, wie viele Partitionen Sie erstellen möchten"
 
 msgid "Connect a usb flash drive by mounting it in /media/hdd"
-msgstr "Collega un'unità flash USB montandola in /media/hdd"
+msgstr "Schließen Sie ein USB-Flash-Laufwerk an, indem Sie es einhängen /media/hdd"
 
 msgid "Flashing image was not successful\n%s"
-msgstr "Flash image non riuscito\n%s"
+msgstr "Flash-Image fehlgeschlagen\n%s"
 
-msgid "Do you want to reboot into recovery mode?\nRemember to select Bootmenu,\nFlash local image,\nchoose the external usb drive,\nchoose the Android.zip file"
-msgstr "Vuoi riavviare in modalità recovery?\nRicordati di selezionare BootMenu,\nFlash local image,\nscegliere l'unità esterna usb,\nscegliere il file Android.zip"
+msgid "Would you like  to reboot into recovery mode?\nRemember to select Bootmenu,\nFlash local image,\nchoose the external usb drive,\nchoose the Android.zip file"
+msgstr "Möchten Sie in den Wiederherstellungsmodus neu starten??\nDenken Sie daran, zu wählen BootMenu,\nFlash local image,\nWählen Sie die Außeneinheit usb,\nwähle die Datei Android.zip"
+
