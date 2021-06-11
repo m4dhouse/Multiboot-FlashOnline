@@ -118,12 +118,6 @@ msgstr "Installo l'aggiornamento..."
 msgid "File download error!"
 msgstr "Errore nel download del file!"
 
-msgid "Do you want to install\n\nthe {} image from OMB?"
-msgstr "Vuoi installare\n\nl'immagine {} in OMB?"
-
-msgid "Would you like to restart enigma2?\n\nRemember that after reboot you need to run the OpenMultiboot plugin\nand install it on /media/hdd"
-msgstr "Vuoi riavviare enigma2?\n\nRicorda che dopo il riavvio è necessario eseguire il plugin OpenMultiboot\ninstallazione bootmenu in /media/hdd"
-
 msgid "Restart enigma2 to be able to use Multiboot FlashOnline"
 msgstr "Riavvia enigma2 per poter utilizzare Multiboot FlashOnline"
 
