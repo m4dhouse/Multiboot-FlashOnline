@@ -85,7 +85,7 @@ msgstr "Server momentaneamente non disponibile"
 msgid "Please be patient!\n\nFlash in progress..."
 msgstr "Flash in corso\npazientare..."
 
-msgid "{} successfully flashed to\n\npartition {}"
+msgid "{} successfully flashed on\n\npartition {}"
 msgstr "{} installata correttamente nella\n\npartizione {}"
 
 msgid "Flash your favorite image by Madhouse"
@@ -121,7 +121,7 @@ msgstr "Errore nel download del file!"
 msgid "Do you want to install\n\nthe {} image from OMB?"
 msgstr "Vuoi installare\n\nl'immagine {} in OMB?"
 
-msgid "Do you want to restart enigma2?\n\nRemember that after reboot you need to run the OpenMultiboot plugin\nand install it on /media/hdd"
+msgid "Would you like to restart enigma2?\n\nRemember that after reboot you need to run the OpenMultiboot plugin\nand install it on /media/hdd"
 msgstr "Vuoi riavviare enigma2?\n\nRicorda che dopo il riavvio è necessario eseguire il plugin OpenMultiboot\ninstallazione bootmenu in /media/hdd"
 
 msgid "Restart enigma2 to be able to use Multiboot FlashOnline"
