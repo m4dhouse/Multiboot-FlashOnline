@@ -1,5 +1,5 @@
 #!/bin/sh
 clear
 echo "check_certificate = off" >> ~/.wgetrc
-opkg --force-reinstall --force-overwrite --force-downgrade install https://github.com/m4dhouse/Multiboot-FlashOnline/blob/main/enigma2-plugin-extensions-multiboot-flashonline_3.1_all.ipk?raw=true
+opkg --force-reinstall --force-overwrite --force-downgrade install https://github.com/m4dhouse/Multiboot-FlashOnline/blob/main/enigma2-plugin-extensions-multiboot-flashonline_3.2_all.ipk?raw=true
 exit 0
