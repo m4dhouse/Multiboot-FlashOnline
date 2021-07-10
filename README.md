@@ -15,7 +15,7 @@ For decoders where it is NOT possible to install the latest recovery, the chosen
 Special thanks go to:
 zorro71, Miky1964, saw_enigmista, SkyRun1973, StixMax for the continuous tests carried out and for the constant support.
 
-![1_0_19_D49_1450_13E_820000_0_0_0_20210710121832](https://user-images.githubusercontent.com/35741027/125159668-12f0de80-e179-11eb-81de-52eba8805c5b.jpg)
+![1_0_1_218C_4_13E_EEEE0000_0_0_0_20210710200143](https://user-images.githubusercontent.com/35741027/125172370-aea23f00-e1b9-11eb-89f6-14afb7818db1.jpg)
 
 ![gb](https://user-images.githubusercontent.com/35741027/121557302-eed49d00-ca14-11eb-83d5-8b7313a7da89.jpg)
 
