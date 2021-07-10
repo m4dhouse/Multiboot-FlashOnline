@@ -17,7 +17,7 @@ zorro71, Miky1964, saw_enigmista, SkyRun1973, StixMax for the continuous tests c
 
 ![1_0_19_D49_1450_13E_820000_0_0_0_20210710121832](https://user-images.githubusercontent.com/35741027/125159668-12f0de80-e179-11eb-81de-52eba8805c5b.jpg)
 
-![4234bc](https://user-images.githubusercontent.com/35741027/121557283-ea0fe900-ca14-11eb-9d07-a0c456f02798.jpg)
+![1_0_19_D49_1450_13E_820000_0_0_0_20210710121812](https://user-images.githubusercontent.com/35741027/125159714-58151080-e179-11eb-8bcb-4987d01799d9.jpg)
 
 ![gb](https://user-images.githubusercontent.com/35741027/121557302-eed49d00-ca14-11eb-83d5-8b7313a7da89.jpg)
 
