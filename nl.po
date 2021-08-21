@@ -43,6 +43,9 @@ msgstr ""
 msgid "16 Partitions (requires 32Gb of dedicated free space)"
 msgstr ""
 
+msgid "Partitions can only be created\nif you start it from an\nImage in Flash (Slots 1-4)."
+msgstr ""
+
 msgid "Existing slots: %s"
 msgstr ""
 
