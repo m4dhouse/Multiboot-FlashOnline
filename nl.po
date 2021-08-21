@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-24 11:48+0200\n"
+"PO-Revision-Date: 2021-08-14 08:48+0300\n"
+"Last-Translator: Madhouse <anonm4d@gmail.com>\n"
+"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Exit"
+msgstr ""
+
+msgid "%s installed (Slot %s)"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Partition drive"
+msgstr ""
+
+msgid "6 Partitions (requires 12Gb of dedicated free space)"
+msgstr ""
+
+msgid "8 Partitions (requires 16Gb of dedicated free space)"
+msgstr ""
+
+msgid "10 Partitions (requires 20Gb of dedicated free space)"
+msgstr ""
+
+msgid "12 Partitions (requires 24Gb of dedicated free space)"
+msgstr ""
+
+msgid "14 Partitions (requires 28Gb of dedicated free space)"
+msgstr ""
+
+msgid "16 Partitions (requires 32Gb of dedicated free space)"
+msgstr ""
+
+msgid "Existing slots: %s"
+msgstr ""
+
+msgid "Model Stb: %s"
+msgstr ""
+
+msgid "STB unsupported!"
+msgstr ""
+
+msgid "Image running: %s"
+msgstr ""
+
+msgid "Multiboot selector"
+msgstr ""
+
+msgid "Before proceeding,\nmake sure the drive is formatted is unmounted.\n\nIf it is successful, you will receive a message on the screen"
+msgstr ""
+
+msgid "Do you want to download\n\nthe {} image?"
+msgstr ""
+
+msgid "1) Check the LAN cable behind the stb\n\n2) Check your internet connection\n\n3) Reopen Multiboot FlashOnLine"
+msgstr ""
+
+msgid "Please wait for the process to finish..."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Download Failed!"
+msgstr ""
+
+msgid "Select the slot"
+msgstr ""
+
+msgid "Server temporarily unavailable"
+msgstr ""
+
+msgid "Please be patient!\n\nFlash in progress..."
+msgstr ""
+
+msgid "%s successfully flashed on\n\npartition %s"
+msgstr ""
+
+msgid "Flash your favorite image by Madhouse"
+msgstr ""
+
+msgid "Select the slot where to install the image"
+msgstr ""
+
+msgid "\nVersion %s"
+msgstr ""
+
+msgid "\nBeta version!"
+msgstr ""
+
+msgid "\nPress MENU to update"
+msgstr ""
+
+msgid "Install update..."
+msgstr ""
+
+msgid "File download error!"
+msgstr ""
+
+msgid "Restart enigma2 to be able to use Multiboot FlashOnline"
+msgstr ""
+
+msgid "Select how many partitions you want to create"
+msgstr ""
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr ""
+
+msgid "Flashing image was not successful\n%s"
+msgstr ""
+
+msgid "Do you want to reboot into recovery mode?\nRemember to select Bootmenu,\nFlash local image,\nchoose the external usb drive,\nchoose the Android.zip file"
+msgstr ""
+
+msgid "Communicate the MacAddress %s\n\nwith your Egami forum username (donor)\n\nto the Madhouse administrator"
+msgstr ""
