@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-24 11:48+0200\n"
+"PO-Revision-Date: 2021-08-21 18:41+0200\n"
+"Last-Translator: Madhouse <anonm4d@gmail.com>\n"
+"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "%s installed (Slot %s)"
+msgstr "%s geïnstalleerd (Slot %s)"
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Partition drive"
+msgstr "Partitie drive"
+
+msgid "6 Partitions (requires 12Gb of dedicated free space)"
+msgstr "6 Partities (vereist 12Gb toegewezen vrije ruimte)"
+
+msgid "8 Partitions (requires 16Gb of dedicated free space)"
+msgstr "8 Partities (vereist 16Gb toegewezen vrije ruimte)"
+
+msgid "10 Partitions (requires 20Gb of dedicated free space)"
+msgstr "10 Partities (vereist 20Gb toegewezen vrije ruimte)"
+
+msgid "12 Partitions (requires 24Gb of dedicated free space)"
+msgstr "12 Partities (vereist 24Gb toegewezen vrije ruimte)"
+
+msgid "14 Partitions (requires 28Gb of dedicated free space)"
+msgstr "14 Partities (vereist 28Gb toegewezen vrije ruimte)"
+
+msgid "16 Partitions (requires 32Gb of dedicated free space)"
+msgstr "16 Partities (vereist 32Gb toegewezen vrije ruimte)"
+
+msgid "18 Partitions (requires 36Gb of dedicated free space)"
+msgstr "18 Partities (vereist 36Gb toegewezen vrije ruimte)"
+
+msgid "20 Partitions (requires 40Gb of dedicated free space)"
+msgstr "20 Partities (vereist 40Gb toegewezen vrije ruimte)"
+
+msgid "22 Partitions (requires 44Gb of dedicated free space)"
+msgstr "22 Partities (vereist 44Gb toegewezen vrije ruimte)"
+
+msgid "24 Partitions (requires 48Gb of dedicated free space)"
+msgstr "24 Partities (vereist 48Gb toegewezen vrije ruimte)"
+
+msgid "26 Partitions (requires 52Gb of dedicated free space)"
+msgstr "26 Partities (vereist 52Gb toegewezen vrije ruimte)"
+
+msgid "Existing slots: %s"
+msgstr "Aantal slots: %s"
+
+msgid "Partitions can only be created\nif you start it from an\nImage in Flash (Slots 1-4)."
+msgstr ""
+
+msgid "Model Stb: %s"
+msgstr "Model ontvanger: %s"
+
+msgid "STB unsupported!"
+msgstr "Ontvanger niet ondersteund!"
+
+msgid "Image running: %s"
+msgstr "Actief image: %s"
+
+msgid "Multiboot selector"
+msgstr "MultiBoot selectie"
+
+msgid ""
+"Before proceeding,\n"
+"make sure that the drive is formatted and unmounted.\n"
+"\n"
+"If this is correct, you will receive a message on the screen"
+msgstr ""
+"Voordat u verder gaat,\n"
+"wees er zeker van dat de drive geformatteerd en niet gemount is.\n"
+"\n"
+"Als dit klopt, verschijnt er een bericht op uw scherm"
+
+msgid "Check if your Device /dev/sda (SD-Card or USB Device)"
+msgstr ""
+
+msgid "has been initialized."
+msgstr ""
+
+msgid "I create 6 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 8 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 10 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 12 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 14 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 16 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 18 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 20 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 22 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 24 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "I create 26 partitions in the Micro SD-Card"
+msgstr ""
+
+msgid "Please be patient..."
+msgstr ""
+
+msgid "To apply the changes\nyou want to restart the GUI"
+msgstr ""
+
+msgid ""
+"Do you want to download\n"
+"\n"
+"the {} image?"
+msgstr ""
+"Wilt u het\n"
+"\n"
+"{} image downloaden?"
+
+msgid ""
+"1) Check the LAN cable behind the stb\n"
+"\n"
+"2) Check your internet connection\n"
+"\n"
+"3) Reopen Multiboot FlashOnLine"
+msgstr ""
+"1) Controleer de LAN kable aan de achterkant van de ontvanger\n"
+"\n"
+"2) Controleer uw internet verbinding\n"
+"\n"
+"3) Start Multiboot FlashOnLine"
+
+msgid "Please wait for the process to finish..."
+msgstr "Wacht aub tot het proces is beëindigd..."
+
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+msgid "Download Failed!"
+msgstr "Download Mislukt!"
+
+msgid "Select the slot"
+msgstr "Selecteer het slot"
+
+msgid "Server temporarily unavailable"
+msgstr "Server tijdelijk niet bereikbaar"
+
+msgid ""
+"Please be patient!\n"
+"\n"
+"Flash in progress..."
+msgstr ""
+"Even geduld aub!\n"
+"\n"
+"Bezig met flashen..."
+
+msgid ""
+"%s successfully flashed on\n"
+"\n"
+"partition %s"
+msgstr ""
+"%s met success geflashd op\n"
+"\n"
+"partitie %s"
+
+msgid "Flash your favorite image by Madhouse"
+msgstr "Flash uw favoriete image door Madhouse"
+
+msgid "Select the slot where to install the image"
+msgstr "Selecteer het slot waarin u het image wilt installeren"
+
+msgid ""
+"\n"
+"Version %s"
+msgstr ""
+"\n"
+"Versie %s"
+
+msgid ""
+"\n"
+"Beta version!"
+msgstr ""
+"\n"
+"Beta versie!"
+
+msgid ""
+"\n"
+"Press MENU to update"
+msgstr ""
+"\n"
+"Druk op MENU om te updaten"
+
+msgid "Install update..."
+msgstr "Update installeren..."
+
+msgid "File download error!"
+msgstr "Bestand download fout!"
+
+msgid "Restart enigma2 to be able to use Multiboot FlashOnline"
+msgstr "Herstart enigma2 om Multiboot FlashOnline te kunnen gebruiken"
+
+msgid "Select how many partitions you want to create"
+msgstr "Selecteer hoeveel partities u wilt creëren"
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr "Sluit een usb-flashdrive aan door deze te mounten in /media/hdd"
+
+msgid ""
+"Flashing image was not successful\n"
+"%s"
+msgstr ""
+"Image flashen is mislukt\n"
+"%s"
+
+msgid ""
+"Do you want to reboot into recovery mode?\n"
+"Remember to select Bootmenu,\n"
+"Flash local image,\n"
+"choose the external usb drive,\n"
+"choose the Android.zip file"
+msgstr ""
+"Wilt u herstarten in Recovery modus?\n"
+"Denk er aan om het Bootmenu te selecteren,\n"
+"Flash lokaal image,\n"
+"kies de externe usb drive,\n"
+"kies het Android.zip bestand"
+
+msgid ""
+"Communicate the MacAddress %s\n"
+"\n"
+"with your Egami forum username (donor)\n"
+"\n"
+"to the Madhouse administrator"
+msgstr ""
+"Geef het MacAdres %s door\n"
+"\n"
+"met uw Egami forum gebruikersnaam (donor)\n"
+"\n"
+"aan de Madhouse administrator"
