@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-23 11:48+0200\n"
+"PO-Revision-Date: 2021-08-23 08:48+0300\n"
+"Last-Translator: Madhouse <anonm4d@gmail.com>\n"
+"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "(SD-Card or USB Device) has been initialized."
+msgstr "(SD-Card o Dispositivo USB) è stato inizializzato."
+
+msgid "\nBeta version!"
+msgstr "\nVersione Beta!"
+
+msgid "\nPress MENU to update"
+msgstr "\nPremi MENU per aggiornare"
+
+msgid "\nVersion %s"
+msgstr "\nVersione %s"
+
+msgid "%s installed (Slot %s)"
+msgstr "%s installata (Slot %s)"
+
+msgid "%s successfully flashed in the\n\nslot %s"
+msgstr "%s installata correttamente nello\n\nslot %s"
+
+msgid "1) Check the LAN cable behind the stb\n\n2) Check your internet connection\n\n3) Reopen Multiboot FlashOnLine"
+msgstr "1) Controlla il cavo LAN dietro al decoder\n\n2) Controlla la tua connessione Internet\n\n3) Riapri Multiboot FlashOnLine"
+
+msgid "10 Multiboot slots (requires 20Gb of dedicated free space)"
+msgstr "10 Multiboot slots (richiede 20Gb di spazio libero dedicati)"
+
+msgid "12 Multiboot slots (requires 24Gb of dedicated free space)"
+msgstr "12 Multiboot slots (richiede 24Gb di spazio libero dedicati)"
+
+msgid "14 Multiboot slots (requires 28Gb of dedicated free space)"
+msgstr "14 Multiboot slots (richiede 28Gb di spazio libero dedicati)"
+
+msgid "16 Multiboot slots (requires 32Gb of dedicated free space)"
+msgstr "16 Multiboot slots (richiede 32Gb di spazio libero dedicati)"
+
+msgid "18 Multiboot slots (requires 36Gb of dedicated free space)"
+msgstr "18 Multiboot slots (richiede 36Gb di spazio libero dedicati)"
+
+msgid "20 Multiboot slots (requires 40Gb of dedicated free space)"
+msgstr "20 Multiboot slots (richiede 40Gb di spazio libero dedicati)"
+
+msgid "22 Multiboot slots (requires 44Gb of dedicated free space)"
+msgstr "22 Multiboot slots (richiede 44Gb di spazio libero dedicati)"
+
+msgid "24 Multiboot slots (requires 48Gb of dedicated free space)"
+msgstr "24 Multiboot slots (richiede 48Gb di spazio libero dedicati)"
+
+msgid "26 Multiboot slots (requires 52Gb of dedicated free space)"
+msgstr "26 Multiboot slots (richiede 52Gb di spazio libero dedicati)"
+
+msgid "6 Multiboot slots (requires 12Gb of dedicated free space)"
+msgstr "6 Multiboot slots (richiede 12Gb di spazio libero dedicati)"
+
+msgid "8 Multiboot slots (requires 16Gb of dedicated free space)"
+msgstr "8 Multiboot slots (richiede 16Gb di spazio libero dedicati)"
+
+msgid "Before proceeding,\nmake sure that the drive is formatted and unmounted.\n\nIf this is correct, you will receive a message on the screen."
+msgstr "Prima di procedere,\nassicurati che l'unità sia formattata e smontata.\n\nSe il processo è andato a buon fine, riceverai un messaggio sullo schermo."
+
+msgid "Check if your Device /dev/sda"
+msgstr "Controllo se il tuo dispositivo /dev/sda"
+
+msgid "Confirmation"
+msgstr "Conferma"
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr "Collega un'unità flash USB montandola in /media/hdd"
+
+msgid "Do you want to download\n\nthe {} image?"
+msgstr "Vuoi scaricare\n\nl'immagine {}?"
+
+msgid "Do you want to reboot into recovery mode?\nRemember to select Bootmenu,\nFlash local image,\nchoose the external usb drive,\nchoose the Android.zip file"
+msgstr "Vuoi riavviare in modalità recovery?\nRicordati di selezionare BootMenu,\nFlash local image,\nscegliere l'unità esterna usb,\nscegliere il file Android.zip"
+
+msgid "Download Failed!"
+msgstr "Download fallito!"
+
+msgid "Existing slots: %s"
+msgstr "Slot esistenti: %s"
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "File download error!"
+msgstr "Errore nel download del file!"
+
+msgid "Flash your favorite image by Madhouse"
+msgstr "Installa la tua immagine preferita by Madhouse"
+
+msgid "Flashing image was not successful\n%s"
+msgstr "Flash image non riuscito\n%s"
+
+msgid "I create 10 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 10 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 12 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 12 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 14 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 14 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 16 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 16 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 18 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 18 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 20 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 20 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 22 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 22 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 24 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 24 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 26 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 26 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 6 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 6 Multiboot slots nella Micro SD-Card"
+
+msgid "I create 8 Multiboot slots in the Micro SD-Card"
+msgstr "Creo 8 Multiboot slots nella Micro SD-Card"
+
+msgid "Image running: %s"
+msgstr "Image in esecuzione: %s"
+
+msgid "Install update..."
+msgstr "Installo l'aggiornamento..."
+
+msgid "Model Stb: %s"
+msgstr "Modello Stb: %s"
+
+msgid "Multiboot selector"
+msgstr "Selettore multiboot"
+
+msgid "Partition drive"
+msgstr "Partition drive"
+
+msgid "Partitioning on /dev/sda successful completed"
+msgstr "Partizionamento su /dev/sda completato con successo"
+
+msgid "Partitions can only be created\nif you start it from an\nImage in Flash (Slots 1-4)."
+msgstr "Le partizioni possono essere create\nsolo se lo esegui da un'immagine\nsulla Flash (Slot 1-4)."
+
+msgid "Pass on the MacAddress %s\n\nwith your Egami forum username (donor)\n\nto the Madhouse administrator"
+msgstr "Comunica il MacAddress %s\n\ncon il tuo nome utente (donatore) del forum Egami\n\nall'amministratore Madhouse"
+
+msgid "Please be patient!\n\nFlash in progress..."
+msgstr "Flash in corso\npazientare..."
+
+msgid "Please be patient..."
+msgstr "Si prega di pazientare..."
+
+msgid "Please wait for the process to finish..."
+msgstr "Attendi il completamento del processo..."
+
+msgid "Select how many slots that you want to create"
+msgstr "Seleziona quanti slot vuoi creare"
+
+msgid "Select the slot where to install the image"
+msgstr "Seleziona lo slot dove installare l'image"
+
+msgid "Select the slot"
+msgstr "Seleziona lo slot"
+
+msgid "Select"
+msgstr "Seleziona"
+
+msgid "Server temporarily unavailable"
+msgstr "Server momentaneamente non disponibile"
+
+msgid "STB unsupported!"
+msgstr "Decoder non supportato!"
+
+msgid "To apply the changes\nyou want to restart the GUI"
+msgstr "Per applicare le modifiche\nvuoi riavviare la GUI"
