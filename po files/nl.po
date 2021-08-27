@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-24 11:48+0200\n"
+"PO-Revision-Date: 2021-08-25 22:43+0200\n"
+"Last-Translator: Madhouse <anonm4d@gmail.com>\n"
+"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "(SD-Card or USB Device) has been initialized."
+msgstr "(SD-Kaart of USB Apparaat) is geïnitializeerd."
+
+msgid ""
+"\n"
+"Beta version!"
+msgstr ""
+"\n"
+"Beta versie!"
+
+msgid ""
+"\n"
+"Press MENU to update"
+msgstr ""
+"\n"
+"Druk op MENU om te updaten"
+
+msgid ""
+"\n"
+"Version %s"
+msgstr ""
+"\n"
+"Versie %s"
+
+msgid "%s installed (Slot %s)"
+msgstr "%s geïnstalleerd (Slot %s)"
+
+msgid ""
+"%s successfully flashed in\n"
+"\n"
+"slot %s"
+msgstr ""
+"%s met succes geïnstalleerd in \n"
+"\n"
+"slot %s"
+
+msgid ""
+"1) Check the LAN cable behind the stb\n"
+"\n"
+"2) Check your internet connection\n"
+"\n"
+"3) Reopen Multiboot FlashOnLine"
+msgstr ""
+"1) Controleer de LAN kable aan de achterkant van de ontvanger\n"
+"\n"
+"2) Controleer uw internet verbinding\n"
+"\n"
+"3) Start Multiboot FlashOnLine"
+
+msgid "10 Multiboot slots (requires 20Gb of dedicated free space)"
+msgstr "10 Multiboot slots (vereist 20Gb toegewezen vrije ruimte)"
+
+msgid "12 Multiboot slots (requires 24Gb of dedicated free space)"
+msgstr "12 Multiboot slots (vereist 24Gb toegewezen vrije ruimte)"
+
+msgid "14 Multiboot slots (requires 28Gb of dedicated free space)"
+msgstr "14 Multiboot slots (vereist 28Gb toegewezen vrije ruimte)"
+
+msgid "16 Multiboot slots (requires 32Gb of dedicated free space)"
+msgstr "16 Multiboot slots (vereist 32Gb toegewezen vrije ruimte)"
+
+msgid "18 Multiboot slots (requires 36Gb of dedicated free space)"
+msgstr "18 Multiboot slots (vereist 36Gb toegewezen vrije ruimte)"
+
+msgid "20 Multiboot slots (requires 40Gb of dedicated free space)"
+msgstr "20 Multiboot slots (vereist 40Gb toegewezen vrije ruimte)"
+
+msgid "22 Multiboot slots (requires 44Gb of dedicated free space)"
+msgstr "22 Multiboot slots (vereist 44Gb toegewezen vrije ruimte)"
+
+msgid "24 Multiboot slots (requires 48Gb of dedicated free space)"
+msgstr "24 Multiboot slots (vereist 48Gb toegewezen vrije ruimte)"
+
+msgid "26 Multiboot slots (requires 52Gb of dedicated free space)"
+msgstr "26 Multiboot slots (vereist 52Gb toegewezen vrije ruimte)"
+
+msgid "6 Multiboot slots (requires 12Gb of dedicated free space)"
+msgstr "6 Multiboot slots (vereist 12Gb toegewezen vrije ruimte)"
+
+msgid "8 Multiboot slots (requires 16Gb of dedicated free space)"
+msgstr "8 Multiboot slots (vereist 16Gb toegewezen vrije ruimte)"
+
+msgid ""
+"Before proceeding,\n"
+"make sure that the drive is formatted and unmounted.\n"
+"\n"
+"If this is correct, you will receive a message on the screen."
+msgstr ""
+"Voordat u verder gaat,\n"
+"wees er zeker van dat de drive geformatteerd, en niet gemount is.\n"
+"\n"
+"Als dit klopt, verschijnt er een bericht op uw scherm."
+
+msgid "Check if your Device /dev/sda"
+msgstr "Controleer of uw apparaat /dev/sda"
+
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr "Sluit een usb-flashdrive aan door deze te mounten in /media/hdd"
+
+msgid ""
+"Do you want to download\n"
+"\n"
+"the {} image?"
+msgstr ""
+"Wilt u het\n"
+"\n"
+"{} image downloaden?"
+
+msgid ""
+"Do you want to reboot into recovery mode?\n"
+"Remember to select Bootmenu,\n"
+"Flash local image,\n"
+"choose the external usb drive,\n"
+"choose the Android.zip file"
+msgstr ""
+"Wilt u herstarten in Recovery modus?\n"
+"Denk er aan om het Bootmenu te selecteren,\n"
+"Flash lokaal image,\n"
+"kies de externe usb drive,\n"
+"kies het Android.zip bestand"
+
+msgid "Download Failed!"
+msgstr "Download Mislukt!"
+
+msgid "Existing slots: %s"
+msgstr "Aantal slots: %s"
+
+msgid "Existing slots: %s (Flash)"
+msgstr "Aantal slots: %s (Flash)"
+
+msgid "Existing slots: %s (Flash)  %s"
+msgstr "Aantal slots: %s (Flash)  %s"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "File download error!"
+msgstr "Bestand download fout!"
+
+msgid "Flash your favorite image by Madhouse"
+msgstr "Flash uw favoriete image door Madhouse"
+
+msgid ""
+"Flashing image was not successful\n"
+"%s"
+msgstr ""
+"Image flashen is mislukt\n"
+"%s"
+
+msgid "I create 10 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 10 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 12 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 12 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 14 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 14 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 16 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 16 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 18 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 18 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 20 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 20 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 22 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 22 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 24 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 24 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 26 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 26 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 6 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 6 Multiboot slots op de Micro SD-Kaart"
+
+msgid "I create 8 Multiboot slots on the Micro SD-Card"
+msgstr "Ik creëer 8 Multiboot slots op de Micro SD-Kaart"
+
+msgid "Image running: %s"
+msgstr "Actief image: %s"
+
+msgid "Install update..."
+msgstr "Update installeren..."
+
+msgid "Model Stb: %s"
+msgstr "Model ontvanger: %s"
+
+msgid "Multiboot selector"
+msgstr "MultiBoot selectie"
+
+msgid "Partition drive"
+msgstr "Partitie drive"
+
+msgid "Format drive"
+msgstr "Formaat drive"
+
+msgid "Partitioning of /dev/sda successful completed"
+msgstr "Partitioneren van /dev/sda is met succes voltooid"
+
+msgid ""
+"Partitions can only be created\n"
+"if you start it from an\n"
+"Image in the Flash (Slots 1-4)."
+msgstr ""
+"Partities kunnen alleen gecreëerd worden\n"
+"als u dit doet met een Flash image\n"
+"(Slot 1-4)."
+
+msgid ""
+"Pass on the MacAddress %s\n"
+"\n"
+"with your Egami forum username (donor)\n"
+"\n"
+"to the Madhouse administrator"
+msgstr ""
+"Geef het MacAdres %s door, samenr\n"
+"\n"
+"met uw Egami forum gebruikersnaam (donor)\n"
+"\n"
+"aan de Madhouse administrator"
+
+msgid ""
+"Please be patient!\n"
+"\n"
+"Flash in progress..."
+msgstr ""
+"Even geduld aub!\n"
+"\n"
+"Bezig met flashen..."
+
+msgid "Please be patient..."
+msgstr "Even geduld aub..."
+
+msgid "Please wait for the process to finish..."
+msgstr "Wacht aub tot het proces is beëindigd..."
+
+msgid "Select how many slots that you want to create"
+msgstr "Selecteer het aantal slots dat u wilt creëren"
+
+msgid "Select the slot where to install the image"
+msgstr "Selecteer het slot waarin u het image wilt installeren"
+
+msgid "Select the slot"
+msgstr "Selecteer het slot"
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Server temporarily unavailable"
+msgstr "Server tijdelijk niet bereikbaar"
+
+msgid "STB unsupported!"
+msgstr "Ontvanger niet ondersteund!"
+
+msgid ""
+"To apply the changes\n"
+"you have to restart the GUI"
+msgstr ""
+"Om de wijzigingen te activeren\n"
+"zult u de GUI moeten herstarten"
