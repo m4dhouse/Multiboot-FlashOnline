@@ -15,9 +15,13 @@ On the created partitions it is possible to flash the chosen image.
 For stb where it is NOT possible to install the latest recovery, the chosen image can only be installed on the 4 slots available on the flash.
 
 Coder Madhouse
+
 Special thanks go to:
+
 Zorro71, Miky1964, saw_enigmista, SkyRun1973, StixMax.
+
 for the continuous tests carried out and for the constant support.
+
 Thanks to Smokey from the OpenEight8 forum (Dutch translation & suggestions)
 
 ![1_0_1_2190_5_13E_EEEE0000_0_0_0_20210828000025](https://user-images.githubusercontent.com/35741027/131195055-08566c90-8db5-42c3-9ea6-18eb6e62ccce.jpg)
