@@ -113,6 +113,9 @@ msgstr ""
 msgid "I create {} Multiboot slots on the {}"
 msgstr ""
 
+msgid "Local Flash"
+msgstr ""
+
 msgid "Image running: %s"
 msgstr ""
 
