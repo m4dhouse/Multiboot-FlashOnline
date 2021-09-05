@@ -17,7 +17,7 @@ msgstr ""
 msgid "\nBeta version!"
 msgstr ""
 
-msgid "\nPress MENU to update"
+msgid "New V.%s available\nPress MENU to update"
 msgstr ""
 
 msgid "\nVersion %s"
