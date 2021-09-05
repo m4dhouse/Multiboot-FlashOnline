@@ -19,8 +19,8 @@ msgstr "{} è stato inizializzato."
 msgid "\nBeta version!"
 msgstr "\nVersione Beta!"
 
-msgid "\nPress MENU to update"
-msgstr "\nPremi MENU per aggiornare"
+msgid "New V.%s available\nPress MENU to update"
+msgstr "Nuova V.%s disponibile\nPremi MENU per aggiornare"
 
 msgid "\nVersion %s"
 msgstr "\nVersione %s"
