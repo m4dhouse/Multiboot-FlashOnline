@@ -1,14 +1,10 @@
-# Multiboot-FlashOnline
-Multiboot FlashOnline for Enigma2 (python2/3)
+# Multiboot FlashOnline
 
 Multiboot FlashOnline supports all Enigma2 stb with the Multiboot option.
 
 Supported stb: abpulse4k, abpulse4kmini, anadolmulti, anadolmultitwin, axmulticombo, axmultitwin, beyonwizv2, Gigablue gbquad4k - gbip4k - gbtrio4k - gbue4k, Zgemma h10 - h102h - h102s - h10combo - h11 - h112h - h11s - h7 - h9combo - h9twin - h9combose - h9se - h92hse -i55se, Mutant hd51 - hd60 - hd61, Ax51 - Ax60 - Ax61, Hd66, maxytecmulti, maxytecmultise, multibox, multiboxse, novaler4k, pulse4k, Octagon sf8008 - sf8008m - sf8008 Optima, ustym4kpro, viper4k, osmini4k.
 
-For stb with the latest recovery on board eg: Sf8008 - GbTri4k etc...
-
-it is possible to create further Multiboot slots (2-4-6-8-10-12-14-16-18-20-22-24-26) 
-by connecting an external MicroSd or PenDrive (Octagon sf8008m usb2 port only).
+For stb with the latest recovery on board (eg: Sf8008 - GbTri4k)it is possible to create further Multiboot slots (2-4-6-8-10-12-14-16-18-20-22-24-26) by connecting an external MicroSd or PenDrive (Octagon sf8008m usb2 port only).
 
 On the created partitions it is possible to flash the chosen image.
  
