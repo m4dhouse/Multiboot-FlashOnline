@@ -22,10 +22,6 @@ Thanks to Smokey from the OpenEight8 forum (Dutch translation & suggestions)
 
 ![1_0_1_2190_5_13E_EEEE0000_0_0_0_20210828000025](https://user-images.githubusercontent.com/35741027/131195055-08566c90-8db5-42c3-9ea6-18eb6e62ccce.jpg)
 
-![gb](https://user-images.githubusercontent.com/35741027/121557302-eed49d00-ca14-11eb-83d5-8b7313a7da89.jpg)
-
-![1_0_19_D49_1450_13E_820000_0_0_0_20210610175517](https://user-images.githubusercontent.com/35741027/121557464-0dd32f00-ca15-11eb-866a-03c6a830294f.jpg)
-
 ![1_0_1_2190_5_13E_EEEE0000_0_0_0_20210814115723](https://user-images.githubusercontent.com/35741027/129442364-bdb78356-5232-43bc-8e4a-99079bb89823.jpg)
 
 ![1_0_19_D49_1450_13E_820000_0_0_0_20210710121759](https://user-images.githubusercontent.com/35741027/125159676-1f753700-e179-11eb-803f-928f1e1ee21a.jpg)
