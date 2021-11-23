@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-31 19:04+0430\n"
+"PO-Revision-Date: 2021-11-22 09:22+0100\n"
+"Last-Translator: lareq\n"
+"Language-Team: Madhouse <anonm4d@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: pl\n"
+
+msgid "{} has been initialized."
+msgstr "{} została rozpoczęta."
+
+msgid ""
+"\n"
+"Beta version!"
+msgstr ""
+"\n"
+"Wersja Beta!"
+
+msgid ""
+"New V.%s available\n"
+"Press MENU to update"
+msgstr ""
+"Dostępna nowa wersja  V.%s\n"
+"Wciśnij  MENU aby zaktualizować"
+
+msgid ""
+"\n"
+"Version %s"
+msgstr ""
+"\n"
+"Wersja %s"
+
+msgid "%s installed (Slot %s)"
+msgstr "%s zainstalowano (partycja %s)"
+
+msgid ""
+"%s successfully flashed in\n"
+"\n"
+"slot %s"
+msgstr ""
+"%s pomyślnie zainstalowano\n"
+"\n"
+"na partycji %s"
+
+msgid ""
+"1) Check the LAN cable behind the stb\n"
+"\n"
+"2) Check your internet connection\n"
+"\n"
+"3) Reopen Multiboot FlashOnLine"
+msgstr ""
+"1) Sprawdź kabel sieciowy\n"
+"\n"
+"2) Sprawdź  połączenie internetowe\n"
+"\n"
+"3) Ponownie uruchom  Multiboot FlashOnLine"
+
+msgid "10 Multiboot slots (requires 20Gb of dedicated free space)"
+msgstr "10 partycji Multiboot (wymaga 20 GB dedykowanego wolnego miejsca)"
+
+msgid "12 Multiboot slots (requires 24Gb of dedicated free space)"
+msgstr "12 partycji Multiboot (wymaga 24 GB dedykowanego wolnego miejsca)"
+
+msgid "14 Multiboot slots (requires 28Gb of dedicated free space)"
+msgstr "14 partycji Multiboot (wymaga 28 GB dedykowanego wolnego miejsca)"
+
+msgid "16 Multiboot slots (requires 32Gb of dedicated free space)"
+msgstr "16 partycji Multiboot (wymaga 32 GB dedykowanego wolnego miejsca)"
+
+msgid "18 Multiboot slots (requires 36Gb of dedicated free space)"
+msgstr "18 partycji Multiboot (wymaga 36 GB dedykowanego wolnego miejsca)"
+
+msgid "20 Multiboot slots (requires 40Gb of dedicated free space)"
+msgstr "20 partycji Multiboot (wymaga 40 GB dedykowanego wolnego miejsca)"
+
+msgid "22 Multiboot slots (requires 44Gb of dedicated free space)"
+msgstr "22 partycje Multiboot (wymaga 44 GB dedykowanego wolnego miejsca)"
+
+msgid "24 Multiboot slots (requires 48Gb of dedicated free space)"
+msgstr "24 partycje Multiboot (wymaga 48 GB dedykowanego wolnego miejsca)"
+
+msgid "26 Multiboot slots (requires 52Gb of dedicated free space)"
+msgstr "26 partycji Multiboot (wymaga 52 GB dedykowanego wolnego miejsca)"
+
+msgid "6 Multiboot slots (requires 12Gb of dedicated free space)"
+msgstr "6 partycji Multiboot (wymaga 12 GB dedykowanego wolnego miejsca)"
+
+msgid "2 Multiboot slots (requires 4Gb of dedicated free space)"
+msgstr "2 partycje Multiboot (wymaga 4 GB dedykowanego wolnego miejsca)"
+
+msgid "4 Multiboot slots (requires 8Gb of dedicated free space)"
+msgstr "4 partycje Multiboot (wymaga 8 GB dedykowanego wolnego miejsca)"
+
+msgid "8 Multiboot slots (requires 16Gb of dedicated free space)"
+msgstr "8 partycji Multiboot (wymaga 16 GB dedykowanego wolnego miejsca)"
+
+msgid ""
+"Before proceeding,\n"
+"make sure that the drive is formatted and unmounted.\n"
+"\n"
+"If this is correct, you will receive a message on the screen."
+msgstr ""
+"Przed kontynuowaniem\n"
+"upewnij się, że dysk jest sformatowany i odmontowany.\n"
+"Jeśli tak jest, na ekranie pojawi się komunikat."
+
+msgid "Check if your Device /dev/sda"
+msgstr "Sprawdź, czy dysk to /dev/sda"
+
+msgid "Confirmation"
+msgstr "Potwierdzenie"
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr "Podłącz dysk flash USB, montując go w /media/hdd"
+
+msgid ""
+"Do you want to download\n"
+"\n"
+"the {} image?"
+msgstr ""
+"Czy chcesz pobrać\n"
+"\n"
+"obraz {}?"
+
+msgid ""
+"Do you want to reboot into recovery mode?\n"
+"Remember to select Bootmenu,\n"
+"Flash local image,\n"
+"choose the external usb drive,\n"
+"choose the Android.zip file"
+msgstr ""
+"Czy chcesz uruchomić system w trybie odzyskiwania?\n"
+"Pamiętaj, aby wybrać Bootmenu,\n"
+"Wgraj do flasha,\n"
+"wybierz zewnętrzny dysk USB,\n"
+"wybierz plik Android.zip"
+
+msgid "Download Failed!"
+msgstr "Pobieranie nie powiodło się!"
+
+msgid "Existing slots: %s (Flash)"
+msgstr "Istniejące partycje: %s (Flash)"
+
+msgid "Existing slots: %s (Flash)  %s"
+msgstr "Istniejące partycje: %s (Flash) %s"
+
+msgid "Exit"
+msgstr "Wyjście"
+
+msgid "File download error!"
+msgstr "Błąd pobierania pliku!"
+
+msgid "Flash your favorite image by Madhouse"
+msgstr "Wgraj swój ulubiony obraz od Madhouse"
+
+msgid ""
+"Flashing image was not successful\n"
+"%s"
+msgstr ""
+"Wgrywanie obrazu nie powiodło się!\n"
+"%s"
+
+msgid "I create {} Multiboot slots on the {}"
+msgstr "Tworzę {} partycje Multiboot na {}"
+
+msgid "Info/Local flash"
+msgstr "Info/Lokalny flash"
+
+msgid "Image running: %s"
+msgstr "Uruchomiony obraz:  %s"
+
+msgid "Install update..."
+msgstr "Zainstaluj aktualizację..."
+
+msgid "Local Flash"
+msgstr "Pamięć flash"
+
+msgid "Model Stb: %s"
+msgstr "Model Stb: %s"
+
+msgid "Multiboot selector"
+msgstr "Wybór  obrazu"
+
+msgid "Partition drive"
+msgstr "Podziel nośnik"
+
+msgid "Format drive"
+msgstr "Sformatuj nośnik"
+
+msgid "Partitioning of /dev/sda successful completed"
+msgstr "Ukończono partycjonowanie /dev/sda"
+
+msgid ""
+"Partitions can only be created\n"
+"if you start it from an\n"
+"Image in the Flash (Slots 1-4)."
+msgstr ""
+"Partycje można utworzyć tylko\n"
+"jeśli uruchomisz obraz \n"
+"we Flashu (partycje 1-4)."
+
+msgid ""
+"Pass on the MacAddress %s\n"
+"\n"
+"with your Egami forum username (donor)\n"
+"\n"
+"to the Madhouse administrator"
+msgstr ""
+"Przekaż MacAdress %s\n"
+"z twoją nazwą użytkownika forum Egami (dawcy)\n"
+"do administratora Madhouse"
+
+msgid ""
+"Please be patient!\n"
+"\n"
+"Flash in progress..."
+msgstr ""
+"Proszę czekać! \n"
+"Trwa wgrywanie..."
+
+msgid "Please be patient..."
+msgstr "Proszę czekać..."
+
+msgid "Please wait for the process to finish..."
+msgstr "Poczekaj na zakończenie procesu..."
+
+msgid "Select how many slots that you want to create"
+msgstr "Wybierz ile partycji chcesz utworzyć"
+
+msgid "Select the slot where to install the image"
+msgstr "Wybierz partycję, gdzie ma zostać zainstalowany obraz"
+
+msgid "Select the slot"
+msgstr "Wybierz partycję"
+
+msgid "Select"
+msgstr "Wybierz"
+
+msgid "Server temporarily unavailable"
+msgstr "Serwer chwilowo niedostępny"
+
+msgid "STB unsupported!"
+msgstr "Urządzenie niewspierane!"
+
+msgid "SD-Card"
+msgstr "Karta SD"
+
+msgid ""
+"To apply the changes\n"
+"you have to restart the GUI"
+msgstr ""
+"Aby zastosować zmiany\n"
+"musisz zrestartować GUI"
+
+msgid "USB Device"
+msgstr "Urządzenie USB"

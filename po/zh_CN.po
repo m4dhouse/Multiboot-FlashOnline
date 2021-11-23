@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-31 19:04+0430\n"
+"PO-Revision-Date: 2021-09-22 00:17+0800\n"
+"Last-Translator: 孤独之剑 <haotzyy1970@yahoo.com>\n"
+"Language-Team: 孤独之剑 <haotzyy1970@yahoo.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "{} has been initialized."
+msgstr "{} 已初始化."
+
+msgid ""
+"\n"
+"Beta version!"
+msgstr ""
+"\n"
+"测试版!"
+
+msgid ""
+"New V.%s available\n"
+"Press MENU to update"
+msgstr ""
+"新版本.%s 可用\n"
+"按MENU键更新"
+
+msgid ""
+"\n"
+"Version %s"
+msgstr ""
+"\n"
+"版本 %s"
+
+msgid "%s installed (Slot %s)"
+msgstr "%s 已安装 (分区 %s)"
+
+msgid ""
+"%s successfully flashed in\n"
+"\n"
+"slot %s"
+msgstr ""
+"%s 已成功安装在\n"
+"\n"
+"分区 %s"
+
+msgid ""
+"1) Check the LAN cable behind the stb\n"
+"\n"
+"2) Check your internet connection\n"
+"\n"
+"3) Reopen Multiboot FlashOnLine"
+msgstr ""
+"1) 检查机顶盒背后的局域网电缆\n"
+"\n"
+"2) 检查你的互联网连接\n"
+"\n"
+"3) 启动多引导在线刷写"
+
+msgid "10 Multiboot slots (requires 20Gb of dedicated free space)"
+msgstr "10个多引导分区 (需要20Gb的专用可用空间)"
+
+msgid "12 Multiboot slots (requires 24Gb of dedicated free space)"
+msgstr "12个多引导分区 (需要24Gb的专用可用空间)"
+
+msgid "14 Multiboot slots (requires 28Gb of dedicated free space)"
+msgstr "14个多引导分区 (需要28Gb的专用可用空间)"
+
+msgid "16 Multiboot slots (requires 32Gb of dedicated free space)"
+msgstr "16个多引导分区 (需要32Gb的专用可用空间)"
+
+msgid "18 Multiboot slots (requires 36Gb of dedicated free space)"
+msgstr "18个多引导分区 (需要36Gb的专用可用空间)"
+
+msgid "20 Multiboot slots (requires 40Gb of dedicated free space)"
+msgstr "20个多引导分区 (需要40Gb的专用可用空间)"
+
+msgid "22 Multiboot slots (requires 44Gb of dedicated free space)"
+msgstr "22个多引导分区 (需要44Gb的专用可用空间)"
+
+msgid "24 Multiboot slots (requires 48Gb of dedicated free space)"
+msgstr "24个多引导分区 (需要48Gb的专用可用空间)"
+
+msgid "26 Multiboot slots (requires 52Gb of dedicated free space)"
+msgstr "26个多引导分区 (需要52Gb的专用可用空间)"
+
+msgid "6 Multiboot slots (requires 12Gb of dedicated free space)"
+msgstr "6个多引导分区 (需要12Gb的专用可用空间)"
+
+msgid "2 Multiboot slots (requires 4Gb of dedicated free space)"
+msgstr "2个多引导分区 (需要4Gb的专用可用空间)"
+
+msgid "4 Multiboot slots (requires 8Gb of dedicated free space)"
+msgstr "4个多引导分区 (需要8Gb的专用可用空间)"
+
+msgid "8 Multiboot slots (requires 16Gb of dedicated free space)"
+msgstr "8个多引导分区 (需要16Gb的专用可用空间)"
+
+msgid ""
+"Before proceeding,\n"
+"make sure that the drive is formatted and unmounted.\n"
+"\n"
+"If this is correct, you will receive a message on the screen."
+msgstr ""
+"在进行之前,\n"
+"确保驱动器已格式化并已卸载.\n"
+"\n"
+"如果该过程成功,您将在屏幕上收到一条消息."
+
+msgid "Check if your Device /dev/sda"
+msgstr "检查您的设备是否为 /dev/sda"
+
+msgid "Confirmation"
+msgstr "确认"
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr "通过将USB闪存驱动器安装在/media/hdd中来连接它"
+
+msgid ""
+"Do you want to download\n"
+"\n"
+"the {} image?"
+msgstr ""
+"是否下载\n"
+"\n"
+"{} 镜像?"
+
+msgid ""
+"Do you want to reboot into recovery mode?\n"
+"Remember to select Bootmenu,\n"
+"Flash local image,\n"
+"choose the external usb drive,\n"
+"choose the Android.zip file"
+msgstr ""
+"是否要重新启动到恢复模式?\n"
+"在引导菜单中选择,\n"
+"刷写本地镜像,\n"
+"选择外部usb驱动器,\n"
+"选择Android.zip文件"
+
+msgid "Download Failed!"
+msgstr "下载失败!"
+
+msgid "Existing slots: %s (Flash)"
+msgstr "现有分区: %s (闪存)"
+
+msgid "Existing slots: %s (Flash)  %s"
+msgstr "现有分区: %s (闪存)  %s"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "File download error!"
+msgstr "文件下载错误!"
+
+msgid "Flash your favorite image by Madhouse"
+msgstr "通过Madhouse安装您喜爱的镜像"
+
+msgid ""
+"Flashing image was not successful\n"
+"%s"
+msgstr ""
+"镜像刷写失败\n"
+"%s"
+
+msgid "I create {} Multiboot slots on the {}"
+msgstr "在 {} 上创建 {} 个多引导分区"
+
+msgid "Info/Local flash"
+msgstr "信息/本地闪存"
+
+msgid "Image running: %s"
+msgstr "正在运行的镜像: %s"
+
+msgid "Install update..."
+msgstr "安装更新..."
+
+msgid "Local Flash"
+msgstr "本地闪存"
+
+msgid "Model Stb: %s"
+msgstr "机顶盒型号: %s"
+
+msgid "Multiboot selector"
+msgstr "多引导选择器"
+
+msgid "Partition drive"
+msgstr "分区驱动器"
+
+msgid "Format drive"
+msgstr "格式化驱动器"
+
+msgid "Partitioning of /dev/sda successful completed"
+msgstr "/dev/sda分区成功完成"
+
+msgid ""
+"Partitions can only be created\n"
+"if you start it from an\n"
+"Image in the Flash (Slots 1-4)."
+msgstr ""
+"只能创建分区\n"
+"仅当您从镜像运行它时\n"
+"闪存中的镜像 (分区1-4)."
+
+msgid ""
+"Pass on the MacAddress %s\n"
+"\n"
+"with your Egami forum username (donor)\n"
+"\n"
+"to the Madhouse administrator"
+msgstr ""
+"通过Mac地址 %s\n"
+"\n"
+"使用您的Egami论坛用户名 (捐赠者)\n"
+"\n"
+"给Madhouse管理员"
+
+msgid ""
+"Please be patient!\n"
+"\n"
+"Flash in progress..."
+msgstr ""
+"请耐心等待!\n"
+"\n"
+"正在刷写..."
+
+msgid "Please be patient..."
+msgstr "请耐心等待..."
+
+msgid "Please wait for the process to finish..."
+msgstr "请等待进程完成..."
+
+msgid "Select how many slots that you want to create"
+msgstr "选择要创建的分区数量"
+
+msgid "Select the slot where to install the image"
+msgstr "选择要安装镜像的分区"
+
+msgid "Select the slot"
+msgstr "选择分区"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Server temporarily unavailable"
+msgstr "服务器暂时不可用"
+
+msgid "STB unsupported!"
+msgstr "机顶盒不支持!"
+
+msgid "SD-Card"
+msgstr "SD卡"
+
+msgid ""
+"To apply the changes\n"
+"you have to restart the GUI"
+msgstr ""
+"应用更改\n"
+"必须重新启动GUI"
+
+msgid "USB Device"
+msgstr "USB设备"
