@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: flashonli\n"
+"Project-Id-Version: flashonline\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-27 19:04+0430\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
