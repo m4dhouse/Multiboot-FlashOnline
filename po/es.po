@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flashonli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-31 19:04+0430\n"
+"PO-Revision-Date: 2022-12-27 11:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "{} has been initialized."
+msgstr "{} se ha iniciado."
+
+msgid ""
+"\n"
+"Beta version!"
+msgstr ""
+"\n"
+"Version Beta!"
+
+msgid ""
+"New V.%s available\n"
+"Press MENU to update"
+msgstr ""
+"Nueva V.%s Disponible\n"
+"Pulse Menú para actualizar"
+
+msgid ""
+"\n"
+"Version %s"
+msgstr ""
+"\n"
+"Version %s"
+
+msgid "%s installed (Slot %s)"
+msgstr "%s Instalada (Ranura %s)"
+
+msgid ""
+"%s successfully flashed in\n"
+"\n"
+"slot %s"
+msgstr ""
+"%s instalada correctamente en\n"
+"\n"
+"Ranura %s"
+
+msgid ""
+"1) Check the LAN cable behind the stb\n"
+"\n"
+"2) Check your internet connection\n"
+"\n"
+"3) Reopen Multiboot FlashOnLine"
+msgstr ""
+"1) Compruebe conexión LAN situado detrás del receptor\n"
+"\n"
+"2) Compruebe su conexión a internet\n"
+"\n"
+"3) Vuelva a abrir Multiboot FlashOnLine"
+
+msgid "10 Multiboot slots (requires 20Gb of dedicated free space)"
+msgstr "10 ranuras Multiboot (requieren de 20Gb de espacio libre)"
+
+msgid "12 Multiboot slots (requires 24Gb of dedicated free space)"
+msgstr "12 ranuras Multiboot (requieren de 24Gb de espacio libre)"
+
+msgid "14 Multiboot slots (requires 28Gb of dedicated free space)"
+msgstr "14 ranuras Multiboot (requieren de 28Gb de espacio libre)"
+
+msgid "16 Multiboot slots (requires 32Gb of dedicated free space)"
+msgstr "16 ranuras Multiboot (requieren de32Gb de espacio libre)"
+
+msgid "18 Multiboot slots (requires 36Gb of dedicated free space)"
+msgstr "18 ranuras Multiboot (requieren de 36Gb de espacio libre)"
+
+msgid "20 Multiboot slots (requires 40Gb of dedicated free space)"
+msgstr "20 ranuras Multiboot (requieren de 40Gb de espacio libre)"
+
+msgid "22 Multiboot slots (requires 44Gb of dedicated free space)"
+msgstr "22 ranuras Multiboot (requieren de 44Gb de espacio libre)"
+
+msgid "24 Multiboot slots (requires 48Gb of dedicated free space)"
+msgstr "24 ranuras Multiboot (requieren de 48Gb de espacio libre)"
+
+msgid "26 Multiboot slots (requires 52Gb of dedicated free space)"
+msgstr "26 ranuras Multiboot (requieren de 52Gb de espacio libre)"
+
+msgid "6 Multiboot slots (requires 12Gb of dedicated free space)"
+msgstr "6 ranuras Multiboot (requieren de 12Gb de espacio libre)"
+
+msgid "2 Multiboot slots (requires 4Gb of dedicated free space)"
+msgstr "2 ranuras Multiboot (requieren de 4Gb de espacio libre)"
+
+msgid "4 Multiboot slots (requires 8Gb of dedicated free space)"
+msgstr "4 ranuras Multiboot (requieren de 8Gb de espacio libre)"
+
+msgid "8 Multiboot slots (requires 16Gb of dedicated free space)"
+msgstr "8 ranuras Multiboot (requieren de 16Gb de espacio libre)"
+
+msgid ""
+"Before proceeding,\n"
+"make sure that the drive is formatted and unmounted.\n"
+"\n"
+"If this is correct, you will receive a message on the screen."
+msgstr ""
+"Antes de continuar,\n"
+"Compruebe que la unidad esta formateada y desmontada.\n"
+"\n"
+"Si es correcto, recibira un mensaje en pantalla."
+
+msgid "Check if your Device /dev/sda"
+msgstr "Compruebe si su dispositivo es reconocido como /dev/sda"
+
+msgid "Confirmation"
+msgstr "Confirmación"
+
+msgid "Connect a usb flash drive by mounting it in /media/hdd"
+msgstr "Conecte un pendrive y móntelo como /media/hdd"
+
+msgid ""
+"Do you want to download\n"
+"\n"
+"the {} image?"
+msgstr ""
+"Quieres descargar\n"
+"\n"
+"La imagen {} ?"
+
+msgid ""
+"Do you want to reboot into recovery mode?\n"
+"Remember to select Bootmenu,\n"
+"Flash local image,\n"
+"choose the external usb drive,\n"
+"choose the Android.zip file"
+msgstr ""
+"Quieres reiniciar en modo recuperación?\n"
+"Recuerda seleccionar el menú Boot,\n"
+"Flashear imagen local,\n"
+"Seleccionar la unidad USB externa,\n"
+"Seleccionar el archivo Android.zip"
+
+msgid "Download Failed!"
+msgstr "La descarga ha fallado!"
+
+msgid "Existing slots: %s (Flash)"
+msgstr "Ranuras existentes: %s (Flash)"
+
+msgid "Existing slots: %s (Flash)  %s"
+msgstr "Ranuras existentes: %s (Flash) %s"
+
+msgid "Exit"
+msgstr "Salir"
+
+msgid "File download error!"
+msgstr "¡Error en la descarga de archivo!"
+
+msgid "Flash your favorite image by Madhouse"
+msgstr "Instala tu imagen favorita realizado por Madhouse"
+
+msgid ""
+"Flashing image was not successful\n"
+"%s"
+msgstr ""
+"No se pudo instalar la imagenl\n"
+"%s"
+
+msgid "I create {} Multiboot slots on the {}"
+msgstr "Creadas {} ranuras de arranque múltiple en {}"
+
+msgid "Info/Local flash"
+msgstr "Info/Local flash"
+
+msgid "Image running: %s"
+msgstr "Imagen en uso: %s"
+
+msgid "Install update..."
+msgstr "Instalar actualización……"
+
+msgid "Local Flash"
+msgstr "Local Flash"
+
+msgid "Model Stb: %s"
+msgstr "Modelo Stb: %s"
+
+msgid "Multiboot selector"
+msgstr "Selector de Multiboot"
+
+msgid "Partition drive"
+msgstr "Unidad de partición"
+
+msgid "Format drive"
+msgstr "Formatear Unidad"
+
+msgid "Partitioning of /dev/sda successful completed"
+msgstr "La partición de /dev/sda se completó con éxito"
+
+msgid ""
+"Partitions can only be created\n"
+"if you start it from an\n"
+"Image in the Flash (Slots 1-4)."
+msgstr ""
+"Solo se pueden crear particiones\n"
+"Si estas usandon\n"
+"Imagen en arranque interno (Ranuras 1-4)."
+
+msgid ""
+"Pass on the MacAddress %s\n"
+"\n"
+"with your Egami forum username (donor)\n"
+"\n"
+"to the Madhouse administrator"
+msgstr ""
+"Pase la MacAddress %s\n"
+"\n"
+"con su nombre de usuario del foro Egami (donante)\n"
+"\n"
+"al administrador Madhouse"
+
+msgid ""
+"Please be patient!\n"
+"\n"
+"Flash in progress..."
+msgstr ""
+"Tenga paciencia!\n"
+"\n"
+"Instalación en progreso…"
+
+msgid "Please be patient..."
+msgstr "Tenga paciencia y no desesperes….."
+
+msgid "Please wait for the process to finish..."
+msgstr "Espere a que finalice el proceso…"
+
+msgid "Select how many slots that you want to create"
+msgstr "Seleccione cuántas ranuras desea crear"
+
+msgid "Select the slot where to install the image"
+msgstr "Seleccione la ranura donde instalar la imagen"
+
+msgid "Select the slot"
+msgstr "Seleccione la ranura"
+
+msgid "Select"
+msgstr "Seleccione"
+
+msgid "Server temporarily unavailable"
+msgstr "Server no disponible temporalmente"
+
+msgid "STB unsupported!"
+msgstr "STB no soportado!"
+
+msgid "SD-Card"
+msgstr "SD-Card"
+
+msgid ""
+"To apply the changes\n"
+"you have to restart the GUI"
+msgstr ""
+"Para aplicar cambios\n"
+"Es necesario reiniciar Interfaz E2"
+
+msgid "USB Device"
+msgstr "USB Device"
